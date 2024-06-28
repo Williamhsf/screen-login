@@ -1,5 +1,5 @@
 # Projeto Inicial
-<div style="text-align: center;">
+<div align="center">
   <img src="./img/screen-login.png" alt="Tela de login" />
 </div>
 
