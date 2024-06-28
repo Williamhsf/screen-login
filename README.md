@@ -1,6 +1,7 @@
 # Projeto Inicial
-
-![Screenshot do Projeto](./img/screen-login.png)
+<div style="text-align: center;">
+  <img src="./img/screen-login.png" alt="Tela de login" />
+</div>
 
 Este projeto de uma tela de login e é uma implementação inicial criada em colaboração com o professor Jorge Sant Ana. Foi desenvolvido como parte do curso **Domine Web - 20 Cursos - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais** disponível na [Udemy](https://www.udemy.com/course/web-completo/).
 
